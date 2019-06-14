@@ -27,4 +27,5 @@ Same as the Network-Only skin, but added a like CPU and RAM load counter (displa
 Shows the time in HH:MM
 
 ## Volume
-Controls your windows volume. Option to mute your volume with a checkbox
+Controls your windows volume. Option to mute your volume with a checkbox. Credit to [u/Lucidas](https://www.reddit.com/r/Rainmeter/comments/2sp49m/wipmy_classic_windows_theme_nearly_completed/cnsf2ou?utm_source=share&utm_medium=web2x) on reddit for coding it.
+
