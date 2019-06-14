@@ -6,7 +6,7 @@ A simple WIndows 98 themed suite for Rainmeter
 Displays the current date in the format : Weekday dd-mm-yy
 
 ## Just a Bin
-Adapted code from [MixSilmeria's "Just A Bin"] skin (https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750) and reskined the icon. i DO NOT own the code for this skin
+Adapted code from [MixSilmeria's "Just A Bin"](https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750) skin and reskined the icon. i DO NOT own the code for this skin
 
 ## Music Player
 Spotify music player displaying the title and artist of the current song, as well as the total length of the song and the current timestamp. 
