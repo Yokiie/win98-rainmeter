@@ -38,19 +38,19 @@ UpdateDivider=100
 Measure=Plugin
 Plugin=WebNowPlaying
 PlayerType=Position
-UpdateDivider=20
+Update=500
 
 [MeasureDuration]
 Measure=Plugin
 Plugin=WebNowPlaying
 PlayerType=Duration
-UpdateDivider=20
+Update=500
 
 [MeasureProgress]
 Measure=Plugin
 Plugin=WebNowPlaying
 PlayerType=Progress
-UpdateDivider=20
+Update=500
 
 [MeasureAutoHideWebNowPlaying]
 Measure=Plugin
