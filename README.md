@@ -10,7 +10,7 @@ Adapted code from [MixSilmeria's "Just A Bin"](https://www.deviantart.com/mixsil
 
 ## Music Player
 Spotify music player displaying the title and artist of the current song, as well as the total length of the song and the current timestamp. 
-Requires the [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying/releases) plugin for rainmeter and the [Spicetify](https://github.com/khanhas/spicetify-cli) plugin in order to fetch the total length and current progress of the song.
+Requires the [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying/releases) plugin for rainmeter and the [Spicetify](https://github.com/khanhas/spicetify-cli) plugin (UPDATE : Due to Spotify's updates it is no longer possible to capture the song progress, which is why the song progress and length is no longer displayed, sadly there's nothing I can do since it comes from Spotify itself.) in order to fetch the total length and current progress of the song.
 Tutorials to install those are included in the README of the linked repositories
 
 ## Network-Only
